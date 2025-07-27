@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  nest-winston
+  winston-nest
 </h1>
 
 <p align="center">
